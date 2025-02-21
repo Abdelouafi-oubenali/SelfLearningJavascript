@@ -5,4 +5,4 @@ function reverseWords (string){
     return reverse ;
 }
 
-console.log(reverseWords('hello wherd'));
+console.log(reverseWords('hello wherd'));    
